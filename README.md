@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a historian, but I am currently pursuing a bachelor's degree in computer science through a part-time program. However, I hope to gain knowledge primarily in a practical context and I am available for work.
+
+I'm proficient in the following programming languages:
+
+[![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)](https://www.java.com)
+[![Python](https://img.icons8.com/color/48/000000/python--v1.png)](https://www.python.org)
+
+I'm currently learning:
+
+![Bash Shell](https://img.icons8.com/ios-filled/50/000000/console.png) ![Linux](https://img.icons8.com/color/50/000000/linux.png) ![JavaScript](https://img.icons8.com/color/50/000000/javascript.png)
+
+I'm also taking courses in software architecture. 
+
+
+I provide some tools and content on Discord for the game Supremacy 1914:  
+
+https://discord.gg/DYGAfU9XnB
+
+https://www.buymeacoffee.com/petrvz
