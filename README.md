@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a historian, but I am currently pursuing a bachelor's degree in computer science through a part-time program. However, I hope to gain knowledge primarily in a practical context and I am available for work.
+I am a historian, but I am currently pursuing a bachelor's degree in computer science through a part-time program.
 
 I'm proficient in the following programming languages:
 
@@ -24,7 +24,7 @@ I'm proficient in the following programming languages:
 
 I'm currently learning:
 
-![Bash Shell](https://img.icons8.com/ios-filled/50/000000/console.png) ![Linux](https://img.icons8.com/color/50/000000/linux.png) ![JavaScript](https://img.icons8.com/color/50/000000/javascript.png)
+![Linux](https://img.icons8.com/color/50/000000/linux.png) ![JavaScript](https://img.icons8.com/color/50/000000/javascript.png)
 
 I'm also taking courses in software architecture. 
 
